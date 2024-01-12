@@ -31,6 +31,7 @@ items:
  - gatsbyjs/gatsby
  - sveltejs/kit
  - refinedev/refine
+ - polight/lego
 
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
